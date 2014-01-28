@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<billard>
+	<table>
+		<numberOfPocket>4</numberOfPocket>
+		<width>700</width>
+		<height>380</height>
+		<frictionCoefficient>2</frictionCoefficient>
+	</table>
+</billard>	
+	

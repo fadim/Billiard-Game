@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<billard>
+    <ball no="1">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="2">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="3">
+		<mass>3</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="4">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="5">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="6">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="7">
+		<mass>3</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="8">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="9">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="10">
+		<mass>3</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="11">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="12">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="13">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="14">
+		<mass>2</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="15">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+	<ball no="16">
+		<mass>1</mass>
+		<radius>10</radius>
+	</ball>
+</billard>
+
